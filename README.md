@@ -1,4 +1,3 @@
-# java-gr
 Java wrapper api for the GR framework
 ---------------
 [![Screenshots](https://gr-framework.org/_images/screenshots.png)](https://gr-framework.org)
