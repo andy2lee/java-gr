@@ -1,5 +1,7 @@
 Java wrapper api for the GR framework
 ---------------
+GR plot for Java scientific computing
+
 [![Screenshots](https://gr-framework.org/_images/screenshots.png)](https://gr-framework.org)
 
 Status
@@ -27,4 +29,4 @@ MIT license ([LICENSE](LICENSE) or http://opensource.org/licenses/MIT)
 
 Acknowledgements
 ---------------
-Provided by GR framework developmers. [GR](https://github.com/sciapp/gr)
+Provided by GR framework developers. [GR](https://github.com/sciapp/gr)
