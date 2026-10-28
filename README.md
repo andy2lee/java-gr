@@ -6,7 +6,7 @@ Status
 ---------------
 Porting some api code via codegen.
 Also provided simple App example.
-:construction::construction::construction:
+:construction:
 Some code and module is still under construction.
 
 Prerequisites
