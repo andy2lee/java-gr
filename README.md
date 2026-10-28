@@ -15,6 +15,12 @@ Prerequisites
 ---------------
 Java JDK >= 25
 
+Quick Start
+---------------
+<img width="831" height="548" alt="image" src="https://github.com/user-attachments/assets/114e6c0d-5d53-42b3-8d9e-296f3d82aea8" />
+
+TODO
+
 License
 ---------------
 MIT license ([LICENSE](LICENSE) or http://opensource.org/licenses/MIT)
